@@ -5,16 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:almamunmazumder1021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mamun064/">
-  </a>
-  <a href="https://github.com/mamunCSE64">    
-  </a>
-  <a href="https://codeforces.com/profile/Mamun064">
-  <img src="https://img.shields.io/badge/Codeforces-Mamun064-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
+  <a href="mailto:almamunmazumder1021@gmail.com">    </a> 
+ 
+  <a href="https://www.linkedin.com/in/mamun064/"> </a>
+  
+  <a href="https://github.com/mamunCSE64">      </a>
+ 
+  <a href="https://codeforces.com/profile/Mamun064">  </a>  
+
 </p>
 
 <p align="center">
