@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul Al Mamun 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer;Backend+Developer;Competitive+Programmer;Building+scalable+systems+with+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer+.NET;Backend+Developer;Competitive+Programmer;Building+scalable+systems+with+clean+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
