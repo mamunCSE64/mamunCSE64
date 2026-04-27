@@ -9,10 +9,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mamun064/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/mamunCSE64">
-    <img src="https://img.shields.io/badge/GitHub-mamun064-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/mamunCSE64">    
   </a>
   <a href="https://codeforces.com/profile/Mamun064">
   <img src="https://img.shields.io/badge/Codeforces-Mamun064-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
