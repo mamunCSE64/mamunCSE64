@@ -8,10 +8,10 @@
   <a href="mailto:almamunmazumder1021@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/mamun064/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/mamun064">
+  <a href="https://github.com/mamunCSE64">
     <img src="https://img.shields.io/badge/GitHub-mamun064-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Working as a **Junior Software Engineer** at **TechnoNext Software Limited**
+- 💼 Working as a **Junior Software Engineer(.NET)** at **TechnoNext Software Limited**
 - 🎓 B.Sc. in **Computer Science and Engineering** from **Gopalganj Science and Technology University**
 - 🚀 Focused on **Backend Development**, **Clean Architecture**, **Microservices**, and **Distributed Systems**
 - ⚡ Solved **4000+ problems** and participated in **400+ contests** across online judges
