@@ -25,12 +25,14 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a> 
 
+  <!-- AtCoder (custom logo via simple-icons workaround) -->
   <a href="https://atcoder.jp/users/Mamun064">
-    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" />
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
 
+  <!-- CSES (no official logo, clean fallback) -->
   <a href="https://cses.fi/user/131521">
-    <img src="https://img.shields.io/badge/CSES-2E8B57?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CSES-2E8B57?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 
   <a href="https://www.geeksforgeeks.org/profile/mamun064?tab=activity">
