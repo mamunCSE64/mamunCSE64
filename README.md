@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abdul Al Mamun 👋</h1>
-<h3 align="center">Junior Software Engineer | Competitive Programmer | Backend Developer</h3>
+<h3 align="center">Junior Software Engineer(.NET) | Competitive Programmer | Backend Developer</h3>
 
 <p align="center">
   Self-motivated and hardworking software engineer with a strong foundation in problem-solving and independent thinking. I quickly adapt to new technologies and am deeply passionate about building scalable backend systems, clean architecture, and competitive programming.
