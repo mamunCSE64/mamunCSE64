@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Abdul Al Mamun 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer+(.NET);Backend+Developer;Competitive+Programmer;Building+scalable+systems+with+clean+code" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="mailto:almamunmazumder1021@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
@@ -28,6 +24,18 @@
   <a href="https://www.codechef.com/users/mamun_064">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a> 
+
+  <a href="https://atcoder.jp/users/Mamun064">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+
+  <a href="https://cses.fi/user/131521">
+    <img src="https://img.shields.io/badge/CSES-2E8B57?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/mamun064?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
