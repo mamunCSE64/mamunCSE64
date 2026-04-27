@@ -14,19 +14,19 @@
   </a>
   
   <a href="https://github.com/mamunCSE64">
-    <img src="https://img.shields.io/badge/GitHub-mamunCSE64-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
  
   <a href="https://codeforces.com/profile/Mamun064">
-    <img src="https://img.shields.io/badge/Codeforces-Mamun064-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>  
   
   <a href="https://leetcode.com/u/Mamun064/">
-    <img src="https://img.shields.io/badge/LeetCode-Mamun064-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a> 
   
   <a href="https://www.codechef.com/users/mamun_064">
-    <img src="https://img.shields.io/badge/CodeChef-mamun_064-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a> 
 </p>
 
