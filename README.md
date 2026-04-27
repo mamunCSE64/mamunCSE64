@@ -5,14 +5,29 @@
 </p>
 
 <p align="center">
-  <a href="mailto:almamunmazumder1021@gmail.com">    </a> 
+  <a href="mailto:almamunmazumder1021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
  
-  <a href="https://www.linkedin.com/in/mamun064/"> </a>
+  <a href="https://www.linkedin.com/in/mamun064/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   
-  <a href="https://github.com/mamunCSE64">      </a>
+  <a href="https://github.com/mamunCSE64">
+    <img src="https://img.shields.io/badge/GitHub-mamunCSE64-181717?style=for-the-badge&logo=github" />
+  </a>
  
-  <a href="https://codeforces.com/profile/Mamun064">  </a>  
-
+  <a href="https://codeforces.com/profile/Mamun064">
+    <img src="https://img.shields.io/badge/Codeforces-Mamun064-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>  
+  
+  <a href="https://leetcode.com/u/Mamun064/">
+    <img src="https://img.shields.io/badge/LeetCode-Mamun064-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a> 
+  
+  <a href="https://www.codechef.com/users/mamun_064">
+    <img src="https://img.shields.io/badge/CodeChef-mamun_064-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a> 
 </p>
 
 <p align="center">
