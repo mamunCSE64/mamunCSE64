@@ -12,6 +12,10 @@
   <a href="https://github.com/mamunCSE64">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://abdul-al-mamun.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
  
   <a href="https://codeforces.com/profile/Mamun064">
     <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -25,16 +29,17 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a> 
 
-  <!-- AtCoder (custom logo via simple-icons workaround) -->
+  <!-- AtCoder -->
   <a href="https://atcoder.jp/users/Mamun064">
     <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
 
-  <!-- CSES (no official logo, clean fallback) -->
+  <!-- CSES -->
   <a href="https://cses.fi/user/131521">
     <img src="https://img.shields.io/badge/CSES-2E8B57?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 
+  <!-- GFG -->
   <a href="https://www.geeksforgeeks.org/profile/mamun064?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
@@ -48,7 +53,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Working as a **Junior Software Engineer(.NET)** at **TechnoNext Software Limited**
+- 💼 Working as a **Junior Software Engineer (.NET)** at **TechnoNext Software Limited**
 - 🎓 B.Sc. in **Computer Science and Engineering** from **Gopalganj Science and Technology University**
 - 🚀 Focused on **Backend Development**, **Clean Architecture**, **Microservices**, and **Distributed Systems**
 - ⚡ Solved **4000+ problems** and participated in **400+ contests** across online judges
@@ -104,27 +109,27 @@
 | :--- | :--- |
 | **LeetCode** | [mamun064](https://leetcode.com/mamun064) |
 | **CodeChef** | [mamun064](https://www.codechef.com/users/mamun064) |
-| **Codeforces** | [mamun064](https://codeforces.com/profile/mamun064) |
-| **AtCoder** | [mamun064](https://atcoder.jp/users/mamun064) |
+| **Codeforces** | [mamun064](https://codeforces.com/profile/Mamun064) |
+| **AtCoder** | [mamun064](https://atcoder.jp/users/Mamun064) |
 | **GeeksforGeeks** | [mamun064](https://auth.geeksforgeeks.org/user/mamun064) |
 
 ---
 
 ## 🏅 Highlights
 
-- 🥈 **ICPC Asia Dhaka Regional 2024** — 194th out of 309 teams
-- 🎯 **CodeSamurai Hackathon 2024** — Finalist, Team UNIT 7
-- 🏆 **IUPC South-Zone 2024** — 9th out of 47 teams
-- 🏅 **IUPC (Solo) South-Zone 2024** — 14th out of 107 participants
-- 🎗️ **IUPC KUET 2025** — 76th out of 160 teams
+- 🥈 **ICPC Asia Dhaka Regional 2024** — 194th out of 309 teams  
+- 🎯 **CodeSamurai Hackathon 2024** — Finalist, Team UNIT 7  
+- 🏆 **IUPC South-Zone 2024** — 9th out of 47 teams  
+- 🏅 **IUPC (Solo) South-Zone 2024** — 14th out of 107 participants  
+- 🎗️ **IUPC KUET 2025** — 76th out of 160 teams  
 
 ---
 
 ## 💻 Featured Project
 
 ### Inventory Management System
-- Built a scalable backend system for managing products, suppliers, sellers, and stock
-- Designed with **ASP.NET Core**, **PostgreSQL**, **Entity Framework Core**, and **Clean Architecture**
+- Built a scalable backend system for managing products, suppliers, sellers, and stock  
+- Designed with **ASP.NET Core**, **PostgreSQL**, **Entity Framework Core**, and **Clean Architecture**  
 - Implemented and tested APIs using **Swagger** and **Postman**
 
 ---
