@@ -108,10 +108,10 @@
 | Platform | Profile |
 | :--- | :--- |
 | **LeetCode** | [mamun064](https://leetcode.com/mamun064) |
-| **CodeChef** | [mamun064](https://www.codechef.com/users/mamun064) |
+| **CodeChef** | [mamun_064](https://www.codechef.com/users/mamun_064) |
 | **Codeforces** | [mamun064](https://codeforces.com/profile/Mamun064) |
 | **AtCoder** | [mamun064](https://atcoder.jp/users/Mamun064) |
-| **GeeksforGeeks** | [mamun064](https://auth.geeksforgeeks.org/user/mamun064) |
+| **GeeksforGeeks** | [mamun064](https://www.geeksforgeeks.org/profile/mamun064?tab=activity) |
 
 ---
 
