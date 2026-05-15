@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Abdul Al Mamun 👋</h1>
+<h1 align="center">
+  Hi, I'm Abdul Al Mamun 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hi+I+am+Abdul+Al+Mamun;Junior+.NET+Software+Engineer;Backend+Developer;Clean+Architecture+Enthusiast" />
+</p>
 
 <p align="center">
   <a href="mailto:almamunmazumder1021@gmail.com">
