@@ -1,4 +1,6 @@
-<h1 align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Abdul%20Al%20Mamun&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+<h1 align="center" style="text-shadow: 0 0 10px #00c6ff, 0 0 20px #0072ff, 0 0 30px #00c6ff;">
   Hi, I'm Abdul Al Mamun 👋
 </h1>
 
