@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=220&section=header&text=Abdul%20Al%20Mamun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20(.NET)%20%7C%20ICPC%20Regionalist%20’24%20%7C%20Codeforces%20Specialist%20%7C%20CodeChef%204%E2%98%85%20%7C%20LeetCode%20Knight&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=240&section=header&text=Abdul%20Al%20Mamun&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20(.NET)%20%7C%20ICPC%20Regionalist%20’24%20%7C%20Codeforces%20Specialist%20%7C%20CodeChef%204%E2%98%85%20%7C%20LeetCode%20Knight&descSize=16&descAlignY=55)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Software+Engineer+(.NET);Backend+Engineer;Clean+Architecture+Enthusiast;gRPC+Developer;Kafka+Streaming+Systems;Redis+Caching+Expert;Microservices+Architect;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineer+(.NET);Backend+Engineer;Clean+Architecture+Enthusiast;gRPC+Developer;Kafka+Streaming+Systems;Redis+Caching+Expert;Microservices+Architect;Competitive+Programmer" />
 </p>
 
 <p align="center">
