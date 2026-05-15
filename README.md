@@ -1,11 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Abdul%20Al%20Mamun&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
-<h1 align="center" style="text-shadow: 0 0 10px #00c6ff, 0 0 20px #0072ff, 0 0 30px #00c6ff;">
-  Hi, I'm Abdul Al Mamun 👋
-</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=220&section=header&text=Abdul%20Al%20Mamun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20.NET%20%7C%20Clean%20Architecture%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hi+I+am+Abdul+Al+Mamun;Junior+.NET+Software+Engineer;Backend+Developer;Clean+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Backend+Engineer+(.NET);Clean+Architecture+Enthusiast;Microservices+Developer;Competitive+Programmer;Distributed+Systems+Learner" />
 </p>
 
 <p align="center">
