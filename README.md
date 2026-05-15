@@ -29,17 +29,14 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a> 
 
-  <!-- AtCoder -->
   <a href="https://atcoder.jp/users/Mamun064">
     <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
   </a>
 
-  <!-- CSES -->
   <a href="https://cses.fi/user/131521">
     <img src="https://img.shields.io/badge/CSES-2E8B57?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 
-  <!-- GFG -->
   <a href="https://www.geeksforgeeks.org/profile/mamun064?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
@@ -51,7 +48,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💼 Working as a **Junior Software Engineer (.NET)** at **TechnoNext Software Limited**
 - 🎓 B.Sc. in **Computer Science and Engineering** from **Gopalganj Science and Technology University**
@@ -60,9 +57,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -72,7 +69,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### Backend & Web
+## Backend & Web
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
@@ -81,7 +78,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Databases & Messaging
+## Databases & Messaging
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
@@ -90,7 +87,7 @@
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
-### Tools & Practices
+## Tools & Practices
 <p>
   <code>Clean Architecture</code>
   <code>Microservices</code>
@@ -103,19 +100,19 @@
 
 ---
 
-## 🏆 Competitive Programming
+# 🏆 Competitive Programming
 
 | Platform | Profile |
 | :--- | :--- |
-| **LeetCode** | [mamun064](https://leetcode.com/mamun064) |
+| **LeetCode** | [mamun064](https://leetcode.com/u/Mamun064/) |
 | **CodeChef** | [mamun_064](https://www.codechef.com/users/mamun_064) |
-| **Codeforces** | [mamun064](https://codeforces.com/profile/Mamun064) |
-| **AtCoder** | [mamun064](https://atcoder.jp/users/Mamun064) |
+| **Codeforces** | [Mamun064](https://codeforces.com/profile/Mamun064) |
+| **AtCoder** | [Mamun064](https://atcoder.jp/users/Mamun064) |
 | **GeeksforGeeks** | [mamun064](https://www.geeksforgeeks.org/profile/mamun064?tab=activity) |
 
 ---
 
-## 🏅 Highlights
+# 🏅 Highlights
 
 - 🥈 **ICPC Asia Dhaka Regional 2024** — 194th out of 309 teams  
 - 🎯 **CodeSamurai Hackathon 2024** — Finalist, Team UNIT 7  
@@ -125,28 +122,59 @@
 
 ---
 
-## 💻 Featured Project
+# 💻 Featured Project
 
-### Inventory Management System
+## Inventory Management System
+
 - Built a scalable backend system for managing products, suppliers, sellers, and stock  
 - Designed with **ASP.NET Core**, **PostgreSQL**, **Entity Framework Core**, and **Clean Architecture**  
 - Implemented and tested APIs using **Swagger** and **Postman**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamun064&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamun064&theme=radical&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mamunCSE64&show_icons=true&theme=radical&hide_border=true" 
+    width="48%" 
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=mamunCSE64&theme=radical&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamun064&theme=react-dark&hide_border=true" width="95%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mamunCSE64&theme=react-dark&hide_border=true" 
+    width="95%" 
+  />
+</p>
+
+---
+
+# 📈 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mamunCSE64&theme=radical&no-frame=true&margin-w=10&margin-h=10" 
+  />
+</p>
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+  📧 Email: <a href="mailto:almamunmazumder1021@gmail.com">almamunmazumder1021@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/mamun064/">mamun064</a><br>
+  🌐 Portfolio: <a href="https://abdul-al-mamun.netlify.app">abdul-al-mamun.netlify.app</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Cooperative in teamwork, strong in independent thinking.”</i>
+  <i>"Cooperative in teamwork, strong in independent thinking."</i>
 </p>
